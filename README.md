@@ -30,3 +30,7 @@ This project is a console-based Student Database Management System implemented i
    - Using GCC:
      ```bash
      gcc src/main.c src/student.c src/utils.c -o student_db
+
+## License
+MIT License.
+
